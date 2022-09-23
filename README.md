@@ -1,1 +1,1 @@
-# buzzTokTokProto
+# buzzSamsungToktok
